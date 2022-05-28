@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+tr td {
+    border: solid 1px black;
+    text-align: center;
+    width:100px ;
+    height: 100px;
+}
+
+td:hover {
+    background-color: rgba(97, 90, 90, 0.603);
+}
+
+#restart_btn {
+    display: none;
+}
+
+/* #btn2{
+    display: none;
+} */
